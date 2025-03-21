@@ -1,8 +1,0 @@
-![jsdoc_ponto_adjacente_direita](https://github.com/user-attachments/assets/115a42ae-2b35-4f84-8c56-731313a83c7a)
-![jsdoc_ponto_adjacente_cima](https://github.com/user-attachments/assets/6a70c171-df5a-4e2d-a560-5b525c8ad777)
-![jsdoc_ponto_adjacente_baixo](https://github.com/user-attachments/assets/2d42fa36-24de-48f7-b51d-50261efd7308)
-![jsdoc_ponto_adjacente_esquerda_cima](https://github.com/user-attachments/assets/5e2ce76d-0e03-435c-9837-f74994073f7b)
-![jsdoc_ponto_adjacente_esquerda_baixo](https://github.com/user-attachments/assets/13ae2953-ee83-404e-bef4-142711288309)
-![jsdoc_ponto_adjacente_esquerda](https://github.com/user-attachments/assets/64f85812-d38a-45db-b584-c76296e09e32)
-![jsdoc_ponto_adjacente_direita_cima](https://github.com/user-attachments/assets/8d79c315-3973-4148-8114-49b388d01443)
-![jsdoc_ponto_adjacente_direita_baixo](https://github.com/user-attachments/assets/12856a36-8265-4334-a390-7d9e28a9ccb5)
